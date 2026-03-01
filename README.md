@@ -18,4 +18,4 @@ This project analyzes patient visit data to identify trends in diagnoses, gender
 - patient_visits_FULL.csv: dataset used for analysis
 
 ## Dashboard
-(Tableau link will go here)
+[View Dashboard]https://public.tableau.com/views/PatientVisitAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
