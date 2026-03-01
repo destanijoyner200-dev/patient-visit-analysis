@@ -1,0 +1,20 @@
+VisitID,PatientName,Age,Gender,Diagnosis,VisitDate,Cost
+1,John Smith,45,Male,Hypertension,1/10/2026,150
+2,Maria Lopez,29,Female,Asthma,1/12/2026,200
+3,James Brown,60,Male,Diabetes,1/15/2026,300
+4,Ava Johnson,34,Female,Flu,1/18/2026,120
+5,Liam Davis,52,Male,Hypertension,1/20/2026,180
+6,Noah Wilson,41,Male,Diabetes,1/22/2026,250
+7,Emma Taylor,37,Female,Asthma,1/25/2026,210
+8,Sophia Green,48,Female,Hypertension,1/28/2026,220
+9,Ethan White,55,Male,Diabetes,1/29/2026,275
+10,Olivia Harris,62,Female,Hypertension,2/1/2026,240
+11,Elijah Clark,50,Male,Diabetes,2/2/2026,310
+12,Isabella Lewis,27,Female,Flu,2/3/2026,130
+13,Mason Walker,39,Male,Asthma,2/4/2026,220
+14,Sophia Hall,44,Female,Hypertension,2/5/2026,260
+15,James Allen,67,Male,Diabetes,2/6/2026,400
+16,Charlotte Young,31,Female,Asthma,2/7/2026,210
+17,Benjamin King,55,Male,Hypertension,2/8/2026,275
+18,Amelia Scott,36,Female,Flu,2/9/2026,150
+19,Lucas Green,48,Male,Diabetes,2/10/2026,320
