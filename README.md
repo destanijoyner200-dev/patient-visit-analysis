@@ -1,21 +1,19 @@
-# Patient Visit Analysis
+# Healthcare Appointment No Show Analysis
 
-## Project Overview
-This project analyzes patient visit data to identify trends in diagnoses, gender distribution, and visit frequency over time.
+This project analyzes healthcare appointment data to identify patterns in patient no-shows and estimate their operational and financial impact on healthcare providers.
 
 ## Tools Used
-- SQL Server
-- Tableau Public
-- Excel
+SQL Server
+Tableau Public
+Excel
+
+## Project Overview
+Using SQL queries and Tableau visualizations, this project explores trends in missed healthcare appointments, including diagnosis patterns, scheduling trends, patient demographics, and financial impact.
 
 ## Key Insights
-- Hypertension and Diabetes had the highest number of visits
-- Male patients had slightly more visits than females
-- Visit trends remained consistent over time
+• Asthma and diabetes patients had the highest missed appointment counts  
+• Monday, Tuesday, and Thursday showed the highest no-show frequency  
+• Average revenue lost per missed appointment was approximately $240  
 
-## Files Included
-- patient_visit_queries.sql: SQL queries used for analysis
-- patient_visits_FULL.csv: dataset used for analysis
-
-## Dashboard
-[View Dashboard]https://public.tableau.com/views/PatientVisitAnalysisDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Interactive Dashboard
+https://public.tableau.com/views/HealthcareAppointmentNoShowAnalysis/Dashboard1
