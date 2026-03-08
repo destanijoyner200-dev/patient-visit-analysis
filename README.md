@@ -17,3 +17,8 @@ Using SQL queries and Tableau visualizations, this project explores trends in mi
 
 ## Interactive Dashboard
 https://public.tableau.com/views/HealthcareAppointmentNoShowAnalysis/Dashboard1
+
+## Project Files
+• appointment_no_show_data.csv – dataset used for analysis  
+• appointment_analysis_queries.sql – SQL queries used for analysis  
+• tableau_dashboard.png – screenshot of the dashboard
